@@ -1,0 +1,8 @@
+{
+    "editor.defaultFormatter": "hashicorp.terraform",
+    "terraform.codelens.referenceCount": true,
+    "terraform.experimentalFeatures.validateOnSave": true,
+    "editor.stickyScroll.enabled": true,
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true
+}
