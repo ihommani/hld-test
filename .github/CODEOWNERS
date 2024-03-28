@@ -1,5 +1,0 @@
-# This document was initiated through the terraform module
-# https://github.com/lvmh-group-it/terraform-module-github-repository
-
-# We protect the CODEOWNERS file itself
-/.github/CODEOWNERS @foo
